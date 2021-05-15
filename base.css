@@ -1,0 +1,18 @@
+:root {
+    --text-color: #333;
+    --white-color: #fff;
+    --main-color: #eb3349;
+}
+
+html {
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+
+.height-block {
+    height: 100px;
+}
+
+.field-m-b {
+    margin-bottom: 30px;
+}
